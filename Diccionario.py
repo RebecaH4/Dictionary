@@ -1,3 +1,4 @@
+#Rebe HC
 #Diccionario
 d1 = {"Nombre": "Samanta", "Edad": 27, "Direccion": "Tepeji", "e_mail": "sama@gmail.com"}
 d2 = {"Nombre": "Maria", "Edad": 30, "Direccion": "Tula Hgo", "e_mail": "mari35@gmail.com"}
